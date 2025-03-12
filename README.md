@@ -1,4 +1,4 @@
-Pitchup.com SEO Lead. Messing around with python in spare time - selenium, playwright, streamlit, pyautogui
+Pitchup.com SEO Lead. Messing around with python in spare time, mostly for data scraping to speed things up - selenium, playwright, streamlit, pyautogui
 
 hit me up at -https://www.linkedin.com/in/tom-pool/
 
